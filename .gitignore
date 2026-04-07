@@ -1,0 +1,11 @@
+bin/
+build/
+flexql_data/
+flexql_data_backup_*/
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.toc
